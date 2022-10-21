@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "radio-broadcast": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.0"
     },
     "files": [
         "main.blocks",
